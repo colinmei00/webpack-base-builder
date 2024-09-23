@@ -1,0 +1,101 @@
+{
+  "training": [
+      {
+          "name": "「亚马逊云科技」解决方案架构师认证",
+          "link": "https:\/\/u.geekbang.org\/subject\/aws\/1007819?utm_source=u_list_web&utm_medium=u_list_web&utm_term=u_list_web",
+          "sort": 3,
+          "new": true
+      },
+      {
+          "name": "Python 运维自动化",
+          "link": "https:\/\/u.geekbang.org\/subject\/intro\/1008197",
+          "sort": 10,
+          "new": true
+      },
+      {
+          "name": "MySQL 进阶训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/mysql\/1008017",
+          "sort": 15,
+          "new": true
+      },
+      {
+          "name": "AI 大模型应用开发实战营",
+          "link": "https:\/\/u.geekbang.org\/subject\/llm?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 16,
+          "hot": true
+      },
+      {
+          "name": "企业级 Agents 开发实战营",
+          "link": "https:\/\/u.geekbang.org\/subject\/agents?utm_source=rcf&utm_medium=04&utm_term=rcf&gk_cus_user_wechat=university",
+          "sort": 17
+      },
+      {
+          "name": "AI 大模型微调训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/finetuning",
+          "sort": 18
+      },
+      {
+          "name": "软考高级-系统架构设计师",
+          "link": "https:\/\/u.geekbang.org\/subject\/software-exam-arch",
+          "sort": 19,
+          "hot": true
+      },
+      {
+          "name": "软考高级-系统分析师",
+          "link": "https:\/\/u.geekbang.org\/subject\/software-exam-sa",
+          "sort": 20
+      },
+      {
+          "name": "AIOps 训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/cloudnativeai?utm_source=rcf&utm_medium=04&utm_term=rcf&gk_cus_user_wechat=university",
+          "sort": 21,
+          "new": true
+      },
+      {
+          "name": "AIGC产品经理训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/pmai",
+          "sort": 22
+      },
+      {
+          "name": "AIGC应用实战营",
+          "link": "https:\/\/u.geekbang.org\/subject\/aigc",
+          "sort": 23
+      },
+      {
+          "name": "Rust 训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/rust?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 24
+      },
+      {
+          "name": "初级 Go 工程师训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/go3rd?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 25
+      },
+      {
+          "name": "Go 实战训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/go2nd?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 26
+      },
+      {
+          "name": "鸿蒙 Next 应用开发训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/harmonyos?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 27
+      },
+      {
+          "name": "软考高级-系统规划与管理师",
+          "link": "https:\/\/u.geekbang.org\/subject\/software-exam-sp",
+          "sort": 28
+      },
+      {
+          "name": "软考高级-信息系统项目管理师",
+          "link": "https:\/\/u.geekbang.org\/subject\/software-exam-high",
+          "sort": 29
+      },
+      {
+          "name": "网络安全训练营",
+          "link": "https:\/\/u.geekbang.org\/subject\/intro\/1005497?utm_source=geektime-web&utm_medium=jiangtangcourse&utm_term=timewebmenu&utm_identify=geektime&utm_content=menu&utm_campaign=timewebmenu&gk_cus_user_wechat=university",
+          "sort": 30
+      }
+  ],
+  "certificate": []
+}

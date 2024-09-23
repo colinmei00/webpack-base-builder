@@ -1,0 +1,54 @@
+{
+  "extends": [
+    "airbnb",
+    "prettier" // 添加 Prettier 规则
+  ],
+  "env": {
+    "browser": true, // 浏览器环境
+    "es6": true // 支持 ES6
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020, // 使用 ECMAScript 2020
+    "sourceType": "module" // 使用模块
+  },
+  "rules": {
+    "no-console": "off", // 警告使用 console
+    "no-constant-condition": "off",
+    "import/prefer-default-export": "off", // 禁用该规则
+    "eol-last": "off",
+    "strict": "off", // 禁用 'use strict' 规则
+    "import/no-unresolved": "off", // 忽略路径中的@
+    "import/no-cycle": "off",
+    "import/no-extraneous-dependencies": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/control-has-associated-label": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/media-has-caption": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "off",
+    "react/function-component-definition": "off",
+    "react/react-in-jsx-scope": "off",
+    "import/extensions": [
+      "error",
+      "never",
+      {
+        "json": "always",
+        "css": "always",
+        "svg": "always",
+        "jpeg": "always",
+        "jpg": "always",
+        "png": "always",
+        "less": "always"
+      }
+    ],
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".jsx",
+          ".js"
+        ]
+      }
+    ] // 允许 .jsx 和 .js 文件
+    // 其他自定义规则
+  }
+}
