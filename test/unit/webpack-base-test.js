@@ -20,7 +20,7 @@ describe("webpack.base.js test case", () => {
     /** 第二种写法 */
     assert.equal(
       baseConfig.entry.search.indexOf(
-        "webpack-base-builder/test/smoke/template/src/search/index.js"
+        "webpack-base-builder/test/smoke/template/src/search.js"
       ) > -1,
       true
     );
