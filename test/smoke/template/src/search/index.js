@@ -6,11 +6,6 @@ import largeNumber from 'colin-large-number';
 import './search.less';
 import logo from '@/search/images/logo.png';
 import '../../common';
-import { a } from './tree-shaking';
-
-if (false) {
-  a();
-}
 
 function App() {
   const [text, setText] = useState(null);
