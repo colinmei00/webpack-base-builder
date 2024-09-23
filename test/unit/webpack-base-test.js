@@ -10,10 +10,6 @@ describe("webpack.base.js test case", () => {
       __dirname,
       "../smoke/template/src/index/index.js"
     );
-    const expectedSearchPath = path.join(
-      __dirname,
-      "../smoke/template/src/search/index.js"
-    );
 
     /** 第一种写法 */
     assert.equal(baseConfig.entry.index, expectedIndexPath);
