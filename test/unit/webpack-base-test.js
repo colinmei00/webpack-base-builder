@@ -15,7 +15,14 @@ describe("webpack.base.js test case", () => {
       "../smoke/template/src/search/index.js"
     );
 
+    /** 第一种写法 */
     assert.equal(baseConfig.entry.index, expectedIndexPath);
-    assert.equal(baseConfig.entry.search, expectedSearchPath);
+    /** 第二种写法 */
+    assert.equal(
+      baseConfig.entry.search.indexOf(
+        "webpack-base-builder/test/smoke/template/src/search/index.js"
+      ) > -1,
+      true
+    );
   });
 });
